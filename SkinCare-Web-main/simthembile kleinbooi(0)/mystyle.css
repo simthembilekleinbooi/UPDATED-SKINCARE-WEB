@@ -1,0 +1,65 @@
+body{padding-left:60px ;
+    text-align: center;}
+
+body{background-color: rgb(245, 245, 245);}
+
+header {text-align: left;}
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-whatsapp {
+  background: #3b984e;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+/* Twitter */
+.fa-instagram {
+  background: #ee9255;
+  color: white;
+}
+
+/* Twitter */
+.fa-youtube {
+  background: #ee5555;
+  color: white;
+}
+
+ul a{
+  color: #333;
+  text-decoration: none;
+  padding: 13px;
+  transition: 3s ease;
+}
+
+ul a:hover{
+color: rgb(0, 0, 0);
+}
+
